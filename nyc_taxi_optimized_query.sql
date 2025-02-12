@@ -1,0 +1,1 @@
+SELECT  FROM `myproject-450714.mydataset1.nyc_taxi_optimized` WHERE TIMESTAMP_TRUNC(tpep_dropoff_datetime, DAY) = TIMESTAMP("2025-02-12") LIMIT 1000

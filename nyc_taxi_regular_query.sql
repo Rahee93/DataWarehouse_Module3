@@ -1,0 +1,1 @@
+SELECT * FROM `myproject-450714.mydataset1.nyc_taxi_regular` LIMIT 1000
